@@ -39,7 +39,7 @@ namespace bastion{
     namespace __vector{
         /**
          * ABOUT VECTOR SIZE CALCULATING:
-         * Standard CPP foundation does'n say about multiplier. They left it at the mercy of compiler developers
+         * Standard CPP foundation doesn't say anything about multiplier. They left it at the mercy of compiler developers
          * For example: gcc use 2x vector multiplier
          *              clang use 2x too
          *              Microsoft' cl use strange multipiplier: or it's dynamic or equial ~1.5
